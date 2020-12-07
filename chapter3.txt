@@ -1,1 +1,2 @@
-"Nothing is good or bad, but thinking make it so." Shakespeare
+"Nothing is good or bad, but thinking make it so." Shakespeare... 
+true 
